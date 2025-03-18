@@ -1,0 +1,11 @@
+.app{
+    justify-condent: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    allign-items: center;
+}
+.count{
+    color:pink;
+    font-size:50 px;
+}
